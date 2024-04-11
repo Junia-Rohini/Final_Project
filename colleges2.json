@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1-9317630410",
+    "name": "Chaitanya Engineering College",
+    "address": "KOMMADI, MADHURAWADA, VISAKHAPATNAM-530041 ANDHRA PRADESH",
+    "district": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "type": "Private-Self Financing",
+    "website": "http://cec.ac.in/",
+    "virtual_tour": "https://www.youtube.com/watch?v=Yxj3-qOsTpA",
+    "coordinates": {
+      "lat": 17.835063,
+      "lng": 83.326543
+    }
+  },
+  {
+    "id": "1-9317630410",
+    "name": "PAAVAI COLLEGE OF ENGINEERING",
+    "address": "PAAVAI NAGAR, NH-7, PACHAL NAMAKKAL-637018, TAMILNADU",
+    "district": "NAMAKKAL",
+    "state": "Tamil Nadu",
+    "type": "Private-Self Financing",
+    "website": "http://cec.ac.in/",
+    "virtual_tour": "https://www.youtube.com/watch?v=Yxj3-qOsTpA",
+    "coordinates": {
+      "lat": 17.835063,
+      "lng": 83.326543
+    }
+  },
+  {
+    "id": "1-3360134",
+    "name": "GAYATRI VIDYA PARISHAD COLLEGE OF ENGINEERING FOR WOMEN",
+    "address": "KOMMADI, MADHURAWADA, VISAKHAPATNAM-530041 ANDHRA PRADESH",
+    "district": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "type": "Private-Self Financing",
+    "website": "https://www.gvpcew.ac.in/",
+    "virtual_tour": "https://webobook.com/public/660d0fabe71b711da8220d32,en",
+    "coordinates": {
+      "lat": 17.821563366494715,
+      "lng": 83.34954913142325
+    }
+  },
+  {
+    "id": "1-9318053639",
+    "name": "VELLORE INSTITUTE OF TECHNOLOGY",
+    "address": "KATPADI THIRUVALAM ROAD, VELLOREs",
+    "district": "VELLORE",
+    "state": "Tamil Nadu",
+    "type": "Deemed to be University(Pvt)",
+    "website": "http://cec.ac.in/",
+    "virtual_tour": "https://campustour.vit.ac.in/tour.html",
+    "coordinates": {
+      "lat": 12.969223,
+      "lng": 79.155934
+    }
+  },
+  {
+    "id": "1-9318093299",
+    "name": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY RAMAPURAM CAMPUS",
+    "address": "BHARATHI SALAI, RAMAPURAM, CHENNAI",
+    "district": "THIRUVALLUR",
+    "state": "Tamil Nadu",
+    "type": "Deemed to be University(Pvt)",
+    "website": "http://cec.ac.in/",
+    "virtual_tour": "https://www.youtube.com/watch?v=Yxj3-qOsTpA",
+    "coordinates": {
+      "lat": 17.835063,
+      "lng": 83.326543
+    }
+  },
+  {
+    "id": "1-9319741096",
+    "name": "AMRITA VISHWA VIDYAPEETHAM COIMBATORE CAMPUS",
+    "address": "AMRITA NAGAR POST, ETTIMADAI COIMBATORE, TAMIL NADU",
+    "district": "COIMBATORE",
+    "state": "TAMIL NADU",
+    "type": "Deemed to be University(Pvt)",
+    "website": "https://www.amrita.edu/campus/coimbatore/",
+    "virtual_tour": "https://www.youtube.com/user/AmritaUniversity",
+    "coordinates": {
+      "lat": 10.902679,
+      "lng": 76.900628
+    }
+  },
+  {
+    "id": "1-9317361150",
+    "name": "R.V.S. EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS R.V.S. SCHOOL OF ENGINEERING & TECHNOLOGY, R.V.S. SCHOOL OF BUSINESS MANAGEMENT, R.V.S. SCHOOL OF COMPUTER APPLICATION",
+    "address": "R.V.S. NAGAR N.PARAIPATTI POST",
+    "district": "DINDIGUL",
+    "state": "TAMIL NADU",
+    "type": "Private-Self Financing",
+    "website": "www.rvsetgidgl.ac.in",
+    "virtual_tour": "https://www.youtube.com/watch?v=UiECcUNIVEA",
+    "coordinates": {
+      "lat": 10.417688,
+      "lng": 78.004529
+    }
+  }
+]
